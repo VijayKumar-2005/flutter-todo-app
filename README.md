@@ -9,9 +9,6 @@ A simple and beautiful Flutter To-Do List app with local notifications and SQLit
 - 💾 Local storage using SQLite
 - ✅ Mark tasks as complete/incomplete
 
-## 📱 Screenshots
-
-(Add screenshots here)
 
 ## 🚀 Getting Started
 
